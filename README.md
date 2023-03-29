@@ -3,7 +3,7 @@
 ### What is IridiumED?
 The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on Löve for adroid and inspired by pcs with white keyboard
 - start devolpment: **feb 17th 2023**
-- version: **beta test**
+- version: **0.0.3**
 ### What is the objective?
 > - Help the mobile developers to create a map
 > - Create map for games with efficiency
