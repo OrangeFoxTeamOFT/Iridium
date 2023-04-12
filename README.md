@@ -1,5 +1,5 @@
 # IridiumED
-![iridium](./Images/IridiumIcon.png)
+![iridium](./IridiumIcon.png)
 ### What is IridiumED?
 The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on Löve for adroid and inspired by pcs with white keyboard
 - start devolpment: **feb 17th 2023**
