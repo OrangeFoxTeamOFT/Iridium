@@ -13,3 +13,6 @@ Everyone can contribute with this project :3 is just take and make your changes
 # Libs credits
 here all libs used
 ### [Json.lua by actboy128](https://github.com/actboy168/json.lua)
+### [LIP by Videah]()
+### [Gamestate by Vrld]()
+### [Timer by Vrld]()
