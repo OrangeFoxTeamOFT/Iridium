@@ -16,3 +16,4 @@ here all libs used
 ### [LIP by Videah](https://github.com/videah/Love_INI_Parser/blob/master/LIP.lua)
 ### [Gamestate by Vrld](https://github.com/vrld/hump/blob/master/gamestate.lua)
 ### [Timer by Vrld](https://github.com/vrld/hump/blob/master/timer.lua)
+### [Suit by Vrld](https://github.com/vrld/SUIT)
