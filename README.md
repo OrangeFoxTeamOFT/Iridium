@@ -11,7 +11,7 @@ The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on 
 # Contributions
 Everyone can contribute with this project :3 is just take and make your changes
 # Libs credits
-here all libs used
+here all libs used (thanks the creators)
 ### [Json.lua by actboy128](https://github.com/actboy168/json.lua)
 ### [LIP by Videah](https://github.com/videah/Love_INI_Parser/blob/master/LIP.lua)
 ### [Gamestate by Vrld](https://github.com/vrld/hump/blob/master/gamestate.lua)
