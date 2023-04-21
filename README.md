@@ -10,6 +10,7 @@ The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on 
 > - Be a map editor only for mobile
 ### How works?
 (only for the most recent version)
+> - arrows = move cam
 > - s = save
 > - b = back block
 > - n = next block
