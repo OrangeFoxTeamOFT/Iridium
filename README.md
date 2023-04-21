@@ -8,6 +8,23 @@ The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on 
 > - Help the mobile developers to create a map
 > - Create map for games with efficiency
 > - Be a map editor only for mobile
+### How works?
+(only for the most recent version)
+> - s = save
+> - b = back block
+> - n = next block
+> - z = undo 
+> - y = redo
+> - t = change layer
+> - t + 0 = layer 0
+> - t + 1 = back layer
+> - t + 2 = next layer
+> - t + 3 = layer 10
+> - ctrl = object mode
+> - esc = block mode
+> - ctrl + backspace = delete object mode
+> - esc + backspace = delete block mode
+> - alt = map manager mode
 # Contributions
 Everyone can contribute with this project :3 is just take and make your changes
 # Libs credits
