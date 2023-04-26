@@ -31,9 +31,9 @@ The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on 
 > - night
 > - currupition
 > - carmin
-> - platinium
+> - [platinium](https://github.com/OrangeFoxTeamOFT/platinium)
 # Contributions
-Everyone can contribute with this project :3 is just take and make your changes
+Everyone can contribute with this project :3 is just make a fork
 # Libs credits
 here all libs used (thanks the creators)
 ### [Json.lua by actboy128](https://github.com/actboy168/json.lua)
