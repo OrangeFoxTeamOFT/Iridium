@@ -26,6 +26,12 @@ The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on 
 > - ctrl + backspace = delete object mode
 > - esc + backspace = delete block mode
 > - alt = map manager mode
+### themes:
+> - day
+> - night
+> - currupition
+> - carmin
+> - platinium
 # Contributions
 Everyone can contribute with this project :3 is just take and make your changes
 # Libs credits
