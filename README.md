@@ -32,6 +32,12 @@ The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on 
 > - currupition
 > - carmin
 > - [platinium (the best theme)](https://github.com/OrangeFoxTeamOFT/platinium)
+### availabe in:
+> - portuguese (brazilian)
+> - english (USA)
+> - spansh
+> - français
+> - german
 # Contributions
 Everyone can contribute with this project :3 is just make a fork
 # Libs credits
